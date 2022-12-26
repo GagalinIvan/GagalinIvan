@@ -8,7 +8,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Testing tools</strong>: Burp Suite, Nessus Professional, Nmap, Shodan, Zed Attack Proxy, Metasploit, Kali Linux, Wireshark, Snyk, SonarQube, Suricata.&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Framework</strong>: OWASP, NIST 800-115, OSSTMM, PCI-<span>penetration testing guide, standard penetration testing</span>, DevSecOps, SOC, Threat Hunting, MITRE ATT&amp;CK.&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Tools</strong>: Docker, Git, Netcat, VeraCrypt, Kali Linux, BloodHound, Active Directory, Eric Zimmermann tools, NirSoft tools.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>My hobbies</strong> are scuba diving, shooting and rock climbing</li>
+<li style="font-weight: 400;" aria-level="1"><strong>My hobbies</strong> are scuba diving, shooting range and rock climbing</li>
 </ul>
 <p></p>
 <p>____________________________________________________________________________________________________________________________</p>
