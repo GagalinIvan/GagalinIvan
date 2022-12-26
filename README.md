@@ -11,7 +11,7 @@
 <li style="font-weight: 400;" aria-level="1"><strong>My hobbies</strong> are scuba diving, shooting and rock climbing</li>
 </ul>
 <p></p>
-<p>__________________________________________________________________________________________________________________________________________________________________</p>
+<p>_____________________________________________________________________________________________________________________________________________________________</p>
 <h4 style="text-align: center;"><strong>My <span>certificates and projects</span></strong></h4>
 <ul>
 <li style="text-align: left;"><strong>Devsecops - <a href="https://gitlab.com/ivanantonovjobs/onlybro" target="_blank" rel="noopener" title=" my project related to this philosophy"> my project related to this philosophy</a></strong></li>
