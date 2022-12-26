@@ -2,7 +2,7 @@
 
 #### I'm Ivan Antonov, junior engineer for cybersec. 
 
-##### Key skills
+#### Key skills
 Языки программирования: python, bash, PowerShell, C++, html, css, JavaScript на уровне понимания.
 Операционные системы: Debian, Ubuntu, Windows 7/10/11/Server 19 на среднем уровне.
 Базы данных: общее понимание работы реляционных баз данных.
