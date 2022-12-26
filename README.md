@@ -10,3 +10,12 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Tools</strong>: Docker, Git, Netcat, VeraCrypt, Kali Linux, BloodHound, Active Directory, Eric Zimmermann tools, NirSoft tools.</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong>My hobbies</strong> are scuba diving, shooting and rock climbing</li>
 </ul>
+<p></p>
+<p>___________________________________________________________________</p>
+<h4 style="text-align: center;"><strong>My <span>certificates and projects</span></strong></h4>
+<ul>
+<li style="text-align: left;"><strong>Devsecops - <a href="https://gitlab.com/ivanantonovjobs/onlybro" target="_blank" rel="noopener" title=" my project related to this philosophy"> my project related to this philosophy</a></strong></li>
+<li style="text-align: left;"><strong>Pentest - <a href="https://github.com/GagalinIvan/Penetration-test-report-open-version-" target="_blank" rel="noopener">there is a report</a></strong></li>
+<li style="text-align: left;"><strong>My certs -&nbsp;<a href="https://drive.google.com/drive/folders/1GT9NQmUshklycpg6yT1EmXKlBfrmpxgr" target="_blank" rel="noopener">in google cloud</a></strong></li>
+</ul>
+<p style="text-align: center;"></p>
