@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-#### I'm #### Ivan Antonov, junior engineer for cybersec. 
+#### I'm Ivan Antonov, junior engineer for cybersec. 
 
 ##### What is I know
+--
 <!--
 **GagalinIvan/GagalinIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
